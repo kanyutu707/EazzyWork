@@ -1,0 +1,21 @@
+.recentContainer{
+    box-shadow: 4px 4px 7px 7px whitesmoke;
+    height: 500px;
+    margin: 7px;
+    padding: 4px;
+    display: flex;
+}
+.recentJobs{
+    width:35%;
+    box-shadow: 2px 2px 5px 5px whitesmoke;
+    height: 100%;
+    margin: 3px;
+}
+.recentPayments{
+    width:65%;
+    box-shadow: 3px 3px 6px 6px whitesmoke;
+    height: 100%;
+    margin: 3px;
+
+
+}

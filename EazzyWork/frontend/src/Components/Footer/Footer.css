@@ -1,0 +1,15 @@
+.footerContainer{
+    background-color: black;
+    height: 300px;
+    
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.contacts, .aboutUs, .subscribe{
+    background-color: rgb(27, 27, 27);
+    width: 32%;
+    border-radius: 3px;
+    color: white;
+}

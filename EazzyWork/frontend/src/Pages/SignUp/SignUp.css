@@ -1,0 +1,21 @@
+.sign_up_form{
+    margin: auto;
+    width: 450px;
+    height: 530px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 140px;
+    box-shadow: 2px 2px 5px 5px rgb(247, 239, 239);
+    border-radius: 5px;
+}
+.form-header{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 27px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}

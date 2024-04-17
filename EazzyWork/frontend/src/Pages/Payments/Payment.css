@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    box-shadow: 4px 4px 8px 8px whitesmoke;
+}
+table thead{
+    height: 70px;
+    box-shadow: 3px 3px 6px 6px whitesmoke;
+}
+table tbody tr{
+    height: 60px;
+    box-shadow: 2px 2px 4px 4px whitesmoke;   
+}
+table tbody tr td{
+    text-align: center;
+}
+.searchTable{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: end;
+
+    
+}

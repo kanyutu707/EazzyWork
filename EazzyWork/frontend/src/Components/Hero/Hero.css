@@ -1,0 +1,53 @@
+.heroContainer{
+    box-shadow: 5px 5px 10px 10px whitesmoke;
+    height: 500px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.heroad{
+    width: 58%;
+    display: flex;
+    justify-content: center;
+    box-shadow: 1px 1px 2px 2px whitesmoke;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    letter-spacing: 1px;
+    
+    font-weight: 599;
+    font-family: sans-serif;
+    flex-direction: column;
+    
+
+}
+.heroad h3{
+    font-size: 30px;
+}
+
+
+.heroad  a{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    border: none;
+    width: 140px;
+    margin: auto;
+    height: 45px;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: none;
+    width: 140px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

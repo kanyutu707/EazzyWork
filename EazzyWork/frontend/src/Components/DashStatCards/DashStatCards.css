@@ -1,0 +1,15 @@
+.dashCards{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 150px;
+}
+.dashCard{
+    width: 24%;
+    box-shadow: 2px 2px 5px 5px whitesmoke;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}

@@ -1,0 +1,28 @@
+.about_us_container{
+    box-shadow: 4px 4px 8px 8px whitesmoke;
+    height: 570px;
+    margin: 10px;
+    padding: 30px;
+}
+.about_us{
+    box-shadow: 3px 3px 6px 6px whitesmoke;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.about_image, .about_writing{
+    box-shadow: 2px 2px 4px 4px whitesmoke;
+    width: 48%;
+    height: 400px;
+}
+.about_writing{
+    text-align: center;
+    font-size: 20px;
+    padding: 4px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

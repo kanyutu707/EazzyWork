@@ -1,0 +1,35 @@
+.customersContainer{
+    height: 400px;
+    box-shadow: 7px 7px 7px 7px whitesmoke;
+    margin: 10px;
+    margin-top: 30px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.customers{
+    box-shadow: 5px 5px 10px 10px whitesmoke;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.customer{
+    box-shadow: 2px 2px 4px 4px whitesmoke;
+    display: flex;
+    padding: 5px;
+    width: 24%;
+    height: 200px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.customer img{
+    width: 48%;
+    border: none;
+    background-color: white;
+    box-shadow: 1px 1px 2px 2px whitesmoke;
+    height: 97%;
+}
+.customer h4{
+    width: 50%;
+
+}

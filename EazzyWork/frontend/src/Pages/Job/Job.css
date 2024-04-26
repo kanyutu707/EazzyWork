@@ -1,0 +1,51 @@
+#myJob{
+    background-color: white;
+    margin: auto;
+    margin-top: 57px;
+    height: 650px;
+    width: 80%;
+    overflow-y: scroll;
+    font-family: serif;
+
+}
+#myJob h1{
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+.job_inputs{
+    display: flex;
+    flex-direction: column;
+
+}
+.job_inputs input{
+    height: 30px;
+    width: 97%;
+    margin:5px;
+
+}
+.job_inputs label{
+    color: black;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 750;
+    font-size: 17px;
+
+}
+.bidOption{
+    background-color: white;
+    box-shadow: 1px 0px 1px 0px whitesmoke;
+    margin-top: 7px;
+    border: 1px solid black;
+}
+.bidOption button{
+    background-color: lightblue;
+    width: 90px;
+    height: 30px;
+    border: none;
+    font-size: 22px;
+    
+    margin: auto;
+    margin-bottom: 7px;
+    margin-left: 4px;
+}

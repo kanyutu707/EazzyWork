@@ -9,12 +9,12 @@ import Trending from '../../Components/Trending/Trending'
 const Dashboard = () => {
   return (
     <div className='DashContainer'>
-       <div className="dashHeader">DASHBOARD</div>
-        
-      <DashStatCards/>
-      <Recent/>
-      <Trending/>
-     
+
+
+      <DashStatCards />
+      <Recent />
+      <Trending />
+
 
     </div>
   )

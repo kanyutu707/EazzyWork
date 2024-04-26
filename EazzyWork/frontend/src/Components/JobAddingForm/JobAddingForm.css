@@ -4,19 +4,19 @@
     margin-top:170px;
     width: 400px;
     padding: 10px;
-    position: fixed;
+   
     margin-left: -280px;
 }
-.job_form form_group{
+.job_form .form_group{
     display: flex;
     flex-direction: column;
     margin-top: 20px;
 }
-.job_form form_group input{
+.job_form .form_group input{
     height: 37px;
     margin-top: 13px;
 }
-.job_form form_group label{
+.job_form .form_group label{
 
     font-size: 24px;
     font-weight: 800;

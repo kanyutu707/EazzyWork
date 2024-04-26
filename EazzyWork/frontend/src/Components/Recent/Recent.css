@@ -10,12 +10,14 @@
     box-shadow: 2px 2px 5px 5px whitesmoke;
     height: 100%;
     margin: 3px;
+    background-color: white;
 }
 .recentPayments{
     width:65%;
     box-shadow: 3px 3px 6px 6px whitesmoke;
     height: 100%;
     margin: 3px;
+    background-color: white;
 
 
 }

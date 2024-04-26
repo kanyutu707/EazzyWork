@@ -14,15 +14,20 @@ import Account from '../../../Pages/Account/Account'
 const EmployerLayout = () => {
   return (
     <div className='workerContainer'>
-      <Admin_Sidebar/>
-      <section className='content'>
-        <TopBar/>
+      <TopBar/>
+      
+      <section className='containerContent'>
+        <div className="leftContent">
+        <Admin_Sidebar/>
+        </div>
+        <div className="rightContent">
         <Routes>
         <Route  index element={<EmployerDashboard/>}/>
-        <Route path="/bidders" element={<Bidders/>}/>
+        <Route path="/bids/:id" element={<Bidders/>}/>
         <Route path="/payments" element={<Payments/>}/>
         <Route path="/account" element={<Account/>}/>
         </Routes>
+        </div>
        
        
       </section>

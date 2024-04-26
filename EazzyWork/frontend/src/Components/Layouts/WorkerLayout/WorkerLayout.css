@@ -1,12 +1,22 @@
 .workerContainer{
     display: flex;
-    width: 100%;
-    overflow-y: hidden;
+    flex-direction: column;
+    background-color: rgb(243, 243, 243);
     height: 100vh;
-
+    padding-bottom: 50px;
+    overflow-y: hidden;
 }
 
-.content{
+.containerContent{
+    display: flex;
     width: 100%;
+    justify-content: space-between;
+    height: 100%;
+}
+.leftContent{
+    width: 15%;
+}
+.rightContent{
+    width: 85%;
     overflow-y: scroll;
 }

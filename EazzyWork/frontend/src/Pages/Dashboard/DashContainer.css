@@ -1,19 +1,9 @@
-.DashContainer{
-    
-    width: 100%;
-    overflow-y: hidden;
-    height: 100vh;
+.DashContainer {
 
-}
 
-.content{
     width: 100%;
-    overflow-y: scroll;
-}
-.dashHeader{
-    font-size: 40px;
-    margin-bottom: 33px;
-    margin-left: 10px;
-    font-weight: 580;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+
+
+
 }

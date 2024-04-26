@@ -19,3 +19,13 @@
     text-decoration: underline;
     letter-spacing: 1px;
 }
+.sign_up_form button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

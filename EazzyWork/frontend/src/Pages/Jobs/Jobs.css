@@ -9,7 +9,9 @@
     padding: 10px;
     box-shadow: 4px 4px 8px 8px whitesmoke;
     border-radius: 2px;
-    height: 210px;
+    height: 150px;
+    background-color: white;
+    word-break: break-all;
     
 }
 .singleJob span{
